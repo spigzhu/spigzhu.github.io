@@ -22,7 +22,7 @@
 
 [百度](http://baidu.com)
 
-![In memory of kobe](kobe.jpg)
+![In memory of kobe](./photo/kobe.jpg)
 
 ***
 
